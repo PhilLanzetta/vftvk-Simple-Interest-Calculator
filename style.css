@@ -11,19 +11,18 @@ body {
 h1{
  color:grey;
  font-family: verdana;
- text-align: center;
 }
 
 .maindiv {
  background-color: white;
  color: black;
- width: clamp(300px, 80%, 600px);
+ width: clamp(300px, 80%, 500px);
  padding: 20px;
  border-radius: 25px;
 }
 
 .form-group {
- width: 80%;
+ width: 70%;
  margin: 0 auto;
  line-height: 2;
 }
